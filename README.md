@@ -9,8 +9,8 @@ This project analyzes bike-sharing data to uncover usage trends, seasonal patter
 ## 🧰 Tools & Technologies
 
 - **Tableau** – for interactive dashboards and data visualizations  
-- **Python** *(optional)* – for preprocessing or data enrichment  
-- **Pandas / NumPy** – for data wrangling (if used)  
+- **Python** – for preprocessing or data enrichment  
+- **Pandas / NumPy** – for data wrangling 
 - **Kaggle** – as a data source  
 - **Git & GitHub** – version control and collaboration  
 
