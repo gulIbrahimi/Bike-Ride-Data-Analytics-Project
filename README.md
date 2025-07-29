@@ -102,12 +102,6 @@ This project explores bike-sharing data to uncover usage patterns, seasonal tren
 
 ---
 
-## Preview
-
-![Dashboard Preview](assets/preview.png) <!-- Replace with actual image path or remove if unavailable -->
-
----
-
 ## How to Use
 
 1. **Clone the repository**  
