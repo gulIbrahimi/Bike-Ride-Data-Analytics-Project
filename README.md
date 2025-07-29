@@ -111,11 +111,9 @@ This project explores bike-sharing data to uncover usage patterns, seasonal tren
 ## How to Use
 
 1. **Clone the repository**  
-  ```bash
   git clone https://github.com/gulIbrahimi/Bike-Ride-Data-Analytics-Project.git
   cd Bike-Ride-Data-Analytics-Project
 2. **Install dependencies**  
-   ```bash
   pip install -r requirements.txt
 3. **Add your dataset**
   Place your CSV file in the /data/ folder (e.g. data/bike_data.csv).
