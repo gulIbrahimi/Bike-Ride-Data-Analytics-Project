@@ -822,8 +822,8 @@ def main():
     # Footer
     st.markdown("""
     <div class="portfolio-footer">
-        🚴‍♂️ Developed with ❤️ using Python, Pandas, Plotly & Streamlit<br>
-        <small>© 2025 London Bike Analytics Dashboard | Data Portfolio Project</small>
+        🚴‍♂️ Developed with love using Python, Pandas, Plotly & Streamlit<br>
+        <small>© 2025 London Bike Analytics Dashboard | Gul Amiz Portfolio Project</small>
     </div>
     """, unsafe_allow_html=True)
 
